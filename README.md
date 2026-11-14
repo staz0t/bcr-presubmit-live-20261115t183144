@@ -1,1 +1,1 @@
-Controlled Bazel Central Registry proof fixtur.
+Controlled Bazel Central Registry proof fixture.
